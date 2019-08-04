@@ -10,3 +10,5 @@ Simple application example using api marvel
 - Clone repository
 - Run `yarn install`
 - Run `yarn run start`
+
+![Demo](https://media.giphy.com/media/f9f6bqKdrbZpcNVORu/giphy.gif "Demo")
