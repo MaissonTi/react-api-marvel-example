@@ -23,7 +23,7 @@ class KeyMarvel {
   };
 
   getApiParams = () => {
-    const ts = new Date().getTime();
+    const ts = '1564885827997'; //new Date().getTime();
 
     return {
       ts,
