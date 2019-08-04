@@ -74,6 +74,7 @@ export const IssueList = styled.ul`
           font-size: 16px;
           text-decoration: none;
           color: #fff;
+          display: block;
           &:hover {
             color: #e62429;
           }
